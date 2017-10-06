@@ -6,6 +6,8 @@ description: Some work around game development in various technologies
 
 Here are listed some of my work in game development. I created my first game when I was 11 ("The Games Factory 1.6" was a nice software!), after that I developed some platform games in Game Maker 6.0. After many breaks I got back into game dev on university.
 
+If you are interested in my other work check my GitHub account [here](https://github.com/kklocek).
+Also I invite you to visit my [blog](http://www.konradklocek.com) (for now, content only in Polish...).
 ### FireVR (codename - in progress) (2017 - 2018)
 
 My MSc thesis ("Using low-cost VR components for creating emotional choices and researching stress behaviour in fire accident simulator") - Google Cardboard simulation which is suited for training volunteer firefighters. Currently in early stage of development.
@@ -24,7 +26,7 @@ Made by 3 developers.
 **Made with**: LibGDX + Java
 
 **Screenshot - dialogue system**:
-![s1](Edugame/s1.png)
+![s1](Edugame/s2.png)
 
 **Screenshot - movement**:
 ![s2](Edugame/s1.png)
@@ -41,6 +43,9 @@ You are a fat firefighter who has to connect hydrant to a firecar, but remember 
 Game was developed in about 17 hours (~15 hours during event, 2 hours after jam to fix bugs), everything was made by me.
 
 **Made with**: Unity, Tiled, Tiled2Unity, Bosca Cecoil, GIMP
+
+**Screenshot - gameplay**:
+![s1](FatFireman/s1.png)
 
 **Build (WebGL version)**: [here](https://xqwzts251.itch.io/fat-fireman)
 
