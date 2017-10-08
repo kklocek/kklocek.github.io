@@ -4,7 +4,7 @@ title: Konrad Klocek's game dev playground
 description: Some work around game development in various technologies
 ---
 
-Here are listed some of my work in game development. I created my first game when I was 11 ("The Games Factory 1.6" was a nice software!), after that I developed some platform games in Game Maker 6.0. After many breaks I got back into game dev on university.
+Here are listed some of my work in game development. I created my first game when I was 11 (The Games Factory 1.6 was a nice software!), after that I developed some platform games in the Game Maker 6.0. After many breaks I got back into game dev on university.
 
 If you are interested in my other work check my GitHub account [here](https://github.com/kklocek).
 Also I invite you to visit my [blog](http://www.konradklocek.com) (for now, content only in Polish...).
