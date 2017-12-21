@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Konrad Klocek's game dev playground
+title: Konrad Klocek's playground
 description: Some of my programming work in various technologies
 ---
 
